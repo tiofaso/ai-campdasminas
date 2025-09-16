@@ -1,0 +1,33 @@
+# Dependências
+/node_modules
+/packages
+
+# Build
+/dist
+/build
+/bin
+/out
+/target
+
+# Arquivos temporários
+*.log
+*.tmp
+*.lock
+
+# Arquivos compilados
+*.o
+*.pyc
+*.class
+
+# Configurações de IDE
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente
+.env
+.env.*
