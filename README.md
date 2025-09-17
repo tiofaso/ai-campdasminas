@@ -24,7 +24,7 @@ Tio .faso
 
 ---
 
-## Small Language Models (SLMs) mais populares
+## Small Language Models (SLMs) mais populares (2025)
 
 **DistilBERT (2019, Hugging Face)**
 
