@@ -20,11 +20,16 @@ Todo o restante são as firulinhas que coloquei para permitir que o _streaming_ 
 
 Fica aqui o meu super beijo de jujuba!
 
-Tio .faso
+Tio .faso - [Linkedin](https://www.linkedin.com/in/tiofaso/)
 
 ---
-
-## Small Language Models (SLMs) mais populares (2025)
+## Novo código mais simplificado
+<sub>Atualização de 17/09/2025</sub><br><br>
+Hoje mais cedo resolvi colocar um código mais simples - só com o que é o suficiente para interagir com o modelo gerenciado pelo Ollama. Então hoje a situação é essa:
+* **prompt-ollama.py** - é o meu código original que emula um chatbot no terminal. Com ele você consegue escrever qualquer tipo de prompt e enviar para o modelo
+* **prompt-ollama-simplificado.py** - esse é o código novo com o _core_ necesário para enviar prompts para o Ollama. Para ele ficar assim "pelado" é necessário escrever o prompt manualmente no código 
+---
+### Small Language Models (SLMs) mais populares (2025)
 
 **DistilBERT (2019, Hugging Face)**
 
